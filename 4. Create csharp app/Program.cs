@@ -16,8 +16,11 @@
 // Console.WriteLine($"Second roll: {roll2}");
 // Console.WriteLine($"Third roll: {roll3}");
 
+// Larger number
 int firstValue = 500;
 int secondValue = 600;
 int largerValue = Math.Max(firstValue, secondValue);
 
 Console.WriteLine(largerValue);
+
+

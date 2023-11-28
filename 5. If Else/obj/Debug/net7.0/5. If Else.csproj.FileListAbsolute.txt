@@ -1,0 +1,14 @@
+C:\Users\prent\github\csharp-foundations\5. If Else\bin\Debug\net7.0\5. If Else.exe
+C:\Users\prent\github\csharp-foundations\5. If Else\bin\Debug\net7.0\5. If Else.deps.json
+C:\Users\prent\github\csharp-foundations\5. If Else\bin\Debug\net7.0\5. If Else.runtimeconfig.json
+C:\Users\prent\github\csharp-foundations\5. If Else\bin\Debug\net7.0\5. If Else.dll
+C:\Users\prent\github\csharp-foundations\5. If Else\bin\Debug\net7.0\5. If Else.pdb
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.AssemblyInfoInputs.cache
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.AssemblyInfo.cs
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.csproj.CoreCompileInputs.cache
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.dll
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\refint\5. If Else.dll
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.pdb
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\5. If Else.genruntimeconfig.cache
+C:\Users\prent\github\csharp-foundations\5. If Else\obj\Debug\net7.0\ref\5. If Else.dll
