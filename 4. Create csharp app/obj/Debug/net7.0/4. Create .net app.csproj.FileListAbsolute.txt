@@ -1,0 +1,14 @@
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\bin\Debug\net7.0\4. Create .net app.exe
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\bin\Debug\net7.0\4. Create .net app.deps.json
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\bin\Debug\net7.0\4. Create .net app.runtimeconfig.json
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\bin\Debug\net7.0\4. Create .net app.dll
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\bin\Debug\net7.0\4. Create .net app.pdb
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.AssemblyInfoInputs.cache
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.AssemblyInfo.cs
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.csproj.CoreCompileInputs.cache
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.dll
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\refint\4. Create .net app.dll
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.pdb
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\4. Create .net app.genruntimeconfig.cache
+C:\Users\prent\github\csharp-foundations\4. Create csharp app\obj\Debug\net7.0\ref\4. Create .net app.dll

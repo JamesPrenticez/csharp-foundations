@@ -16,3 +16,10 @@ And finally we can run our code in the terminal... slowly
 ```bash
   dotnet script HelloWorld.cs
 ```
+
+### Running a project
+If you have a proejct you can cd into and
+
+```bash
+  dotnet run
+```
